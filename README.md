@@ -1,14 +1,12 @@
-                                   RETAIL SALES  ANALYSIS  – Blinkit.
+## RETAIL SALES  ANALYSIS  – Blinkit.
                             
-                                DOMAIN :- Retail-Sales     
-
-                                                      PROJECT OVERVIEW 
+#  PROJECT OVERVIEW 
 
 - This project showcases a "Retail Sales " built in Excel for Blinkit. The goal was to analyze sales trends, customer preferences, and outlet performance to generate data-driven insights.
 
 <img width="1553" height="801" alt="BLINKIT SS2" src="https://github.com/user-attachments/assets/f330846c-0ade-463b-9bf0-8abb357b600a" />
-                                                      
-                                          BLINKIT BUSINESS OBJECTIVES
+
+ # BLINKIT BUSINESS OBJECTIVES
                                           
 1.	 Total Sales: The overall revenue generated from all items sold.
    
@@ -39,7 +37,7 @@ Objective: Assess the geographic distribution of sales across different location
 11.	All Metrics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.                                     
  
-                                        SALES INSIGHTS
+    #  SALES INSIGHTS
    	
                                     Revenue & Transaction Patterns.
 - $1.2M milestone achieved with $141 Avg transaction.
@@ -73,7 +71,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 - Action  : Close bottom 10% outlets, launch 15-20 Tier 3 stores.
 
 
-                                        STRATEGIC RECOMMENDATIONS
+  #  STRATEGIC RECOMMENDATIONS
 
                                   Immediate Actions (Q1)
 - SKU Rationalization  : Cut 500-1,000 items, double F&V selection to 160+ SKUs.
@@ -99,7 +97,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 - +40% Tier 3 revenue from aggressive expansion.
 - 0.3-point rating boost = 4-8% repeat visit increase.
 
-                                                      TOOLS & TECHNIQUES 
+  #  TOOLS & TECHNIQUES 
  
 - Excel.
 - Data Cleaning & Preparation.
@@ -107,7 +105,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 - Slicers & Filters.
 - Dashboard Design.
 
-                                                     KEY LEARNINGS 
+  # KEY LEARNINGS 
 
 1. SKU complexity kills efficiency    – less is more with focused hero products.
 2. Location > Format                   – Tier 3 beats Tier 1 despite lower prestige.
@@ -116,6 +114,10 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 5. Rating gaps signal revenue leaks    – every 0.1 point = 2-4% repeat visits.
 
                                                           LINKS 
-- WANI UMER ( Data Analyst).
--  Portfolio:-https://codebasics.io/portfolio/WANI-UMER .
-- LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_excel-isnt-just-about-rows-and-columns-activity-7370133418849771520-ma67?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+#  WANI UMER ( Data Analyst).
+
+#  Portfolio:-
+https://codebasics.io/portfolio/WANI-UMER .
+
+# LinkedIn :-
+- https://www.linkedin.com/posts/waniumer-analytics_excel-isnt-just-about-rows-and-columns-activity-7370133418849771520-ma67?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
